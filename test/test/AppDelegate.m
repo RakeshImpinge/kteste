@@ -20,7 +20,7 @@
     [self.window makeKeyAndVisible];
     
     
-    
+    NSLog(@"teing fasfsdfsfa");
  
     
     return YES;
