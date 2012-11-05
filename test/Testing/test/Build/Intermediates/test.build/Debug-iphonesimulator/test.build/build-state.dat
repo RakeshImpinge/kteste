@@ -1,227 +1,0 @@
-Ttest
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/Info.plist test/test-Info.plist
-cProcessPCH /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/PrecompiledHeaders/test-Prefix-hjuklfqyufsabcdhzwfckyaohdsu/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/main.o /Users/dinesh/Desktop/kteste/test/test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o /Users/dinesh/Desktop/kteste/test/test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/TesterClass.o /Users/dinesh/Desktop/kteste/test/TesterClass.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/test normal i386
-cGenerateDSYMFile /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app.dSYM /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/test
-cCopyStringsFile /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/en.lproj/InfoPlist.strings test/en.lproj/InfoPlist.strings
-cTouch /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
-c000000005072E5C90000000000000110
-t1349707209
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000505B48890000000000228FD0
-t1348159625
-s2265040
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000505B488B00000000003DCEF0
-t1348159627
-s4050672
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000505B48910000000000AB3D60
-t1348159633
-s11222368
-
-N/Users/dinesh/Desktop/kteste/test/TesterClass.m
-c000000005097625B000000000000008C
-t1352098395
-s140
-
-N/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/PrecompiledHeaders/test-Prefix-hjuklfqyufsabcdhzwfckyaohdsu/test-Prefix.pch.pth
-t1351661687
-s4836920
-
-N/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o
-t1351661688
-s88120
-
-N/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/TesterClass.o
-t2
-s0
-
-N/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/main.o
-t1351661688
-s3276
-
-N/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/test.LinkFileList
-c000000005097629500000000000001AC
-t1352098453
-s428
-
-N/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app
-t1351661689
-s204
-
-N/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app.dSYM
-t1351661689
-s102
-
-N/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/Info.plist
-t1351661687
-s774
-
-N/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/PkgInfo
-t1351661687
-s8
-
-N/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/en.lproj/InfoPlist.strings
-t1351661689
-s42
-
-N/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/test
-t1351661689
-s26968
-
-N/Users/dinesh/Desktop/kteste/test/test/AppDelegate.h
-c000000005090B6B30000000000000113
-t1351661235
-s275
-
-N/Users/dinesh/Desktop/kteste/test/test/AppDelegate.m
-c0000000050976295000000000000094A
-t1352098453
-s2378
-
-N/Users/dinesh/Desktop/kteste/test/test/en.lproj/InfoPlist.strings
-c000000005090B6B3000000000000002D
-t1351661235
-s45
-
-N/Users/dinesh/Desktop/kteste/test/test/main.m
-c000000005090B6B3000000000000014E
-t1351661235
-s334
-
-N/Users/dinesh/Desktop/kteste/test/test/test-Prefix.pch
-c000000005090B6B30000000000000137
-t1351661235
-s311
-
-Ntest/test-Info.plist
-c000000005090B6B3000000000000048C
-t1351661235
-s1164
-
-CBuild AST from /Users/dinesh/Desktop/kteste/test/TesterClass.m
-r0
-
-CBuild AST from /Users/dinesh/Desktop/kteste/test/test/AppDelegate.m
-r0
-
-CBuild AST from /Users/dinesh/Desktop/kteste/test/test/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa4c264159a47b641^817b8a159a47b641^---0#1#0#--18"Check dependencies36"7A7932B3-B7DE-4366-AA46-5A1E16E3D8D8-
-
-CCompileC Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o /Users/dinesh/Desktop/kteste/test/test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s373791253.599688
-e373791253.927903
-r1
-xCompileC
-xTesting/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o
-x/Users/dinesh/Desktop/kteste/test/test/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/dinesh/Desktop/kteste/test/test/AppDelegate.m72a699159a47b641^06a0ed159a47b641^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/dinesh/Desktop/kteste/test/test/AppDelegate.m0000000000000000^3656"CompileC Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o test/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dinesh/Desktop/kteste/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-generated-files.hmap -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-project-headers.hmap -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/DerivedSources/i386 -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/DerivedSources -F/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator -include /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/PrecompiledHeaders/test-Prefix-hjuklfqyufsabcdhzwfckyaohdsu/test-Prefix.pch -MMD -MT dependencies -MF /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.dia -c /Users/dinesh/Desktop/kteste/test/test/AppDelegate.m -o /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/AppDelegate.o36"32007AAA-7C07-4CCC-AAC4-CEC2283CE6A1-
-
-CCompileC Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/TesterClass.o /Users/dinesh/Desktop/kteste/test/TesterClass.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s373791253.618727
-e373791253.853040
-r1
-xCompileC
-xTesting/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/TesterClass.o
-x/Users/dinesh/Desktop/kteste/test/TesterClass.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/dinesh/Desktop/kteste/test/TesterClass.mca899e159a47b641^766eda159a47b641^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Users/dinesh/Desktop/kteste/test/TesterClass.m0000000000000000^3646"CompileC Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/TesterClass.o TesterClass.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dinesh/Desktop/kteste/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-generated-files.hmap -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-project-headers.hmap -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/DerivedSources/i386 -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/DerivedSources -F/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator -include /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/PrecompiledHeaders/test-Prefix-hjuklfqyufsabcdhzwfckyaohdsu/test-Prefix.pch -MMD -MT dependencies -MF /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/TesterClass.d --serialize-diagnostics /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/TesterClass.dia -c /Users/dinesh/Desktop/kteste/test/TesterClass.m -o /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/TesterClass.o36"C0F72396-2EB9-4417-8851-54FC898B639C-
-
-CCompileC Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/main.o /Users/dinesh/Desktop/kteste/test/test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s373354487.858575
-e373354488.127208
-r1
-xCompileC
-xTesting/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/main.o
-x/Users/dinesh/Desktop/kteste/test/test/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/dinesh/Desktop/kteste/test/test/main.m3deedbf7ef40b641^2d9420f8ef40b641^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Users/dinesh/Desktop/kteste/test/test/main.m0000000000000000^3614"CompileC Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/main.o test/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dinesh/Desktop/kteste/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-generated-files.hmap -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-project-headers.hmap -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/DerivedSources/i386 -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/DerivedSources -F/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator -include /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/PrecompiledHeaders/test-Prefix-hjuklfqyufsabcdhzwfckyaohdsu/test-Prefix.pch -MMD -MT dependencies -MF /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/main.dia -c /Users/dinesh/Desktop/kteste/test/test/main.m -o /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/main.o36"E00D63FA-78CC-4F99-A619-9285958DCE1B-
-
-CCopyStringsFile /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/en.lproj/InfoPlist.strings test/en.lproj/InfoPlist.strings
-s373354489.231064
-e373354489.234255
-r1
-xCopyStringsFile
-x/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/en.lproj/InfoPlist.strings
-xtest/en.lproj/InfoPlist.strings
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy test/en.lproj/InfoPlist.stringsfa433bf9ef40b641^a0fa3bf9ef40b641^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/dinesh/Desktop/kteste/test/test/en.lproj/InfoPlist.strings0000000000000000^597"CopyStringsFile Testing/test/Build/Products/Debug-iphonesimulator/test.app/en.lproj/InfoPlist.strings test/en.lproj/InfoPlist.strings    cd /Users/dinesh/Desktop/kteste/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/en.lproj -- test/en.lproj/InfoPlist.strings36"92A538E1-5B52-4704-868D-6E431B1DEB7C-
-
-CGenerateDSYMFile /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app.dSYM /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/test
-s373791254.029452
-e373791254.083785
-r1
-xGenerateDSYMFile
-x/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app.dSYM
-x/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/test
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Generating /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app.dSYM569f07169a47b641^757315169a47b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app.dSYM/0000000000000000^680"GenerateDSYMFile Testing/test/Build/Products/Debug-iphonesimulator/test.app.dSYM Testing/test/Build/Products/Debug-iphonesimulator/test.app/test    cd /Users/dinesh/Desktop/kteste/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/test -o /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app.dSYM36"3A369611-1C04-4133-A773-F8E5AFA45375-
-
-CLd /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/test normal i386
-s373791253.935436
-e373791254.021900
-r1
-xLd
-x/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/test
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Link /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/test8195ef159a47b641^7c9c05169a47b641^---0#0#0#--1216"Ld Testing/test/Build/Products/Debug-iphonesimulator/test.app/test normal i386    cd /Users/dinesh/Desktop/kteste/test    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator -F/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator -filelist /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/Objects-normal/i386/test.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/test36"786F6ACD-880B-4057-BF4A-B8934F3981BE-
-
-CProcessInfoPlistFile /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/Info.plist test/test-Info.plist
-s373354487.295275
-e373354487.299413
-r1
-xProcessInfoPlistFile
-x/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/Info.plist
-xtest/test-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process test/test-Info.plist35b64bf7ef40b641^22384ef7ef40b641^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/dinesh/Desktop/kteste/test/test/test-Info.plist0000000000000000^680"ProcessInfoPlistFile Testing/test/Build/Products/Debug-iphonesimulator/test.app/Info.plist test/test-Info.plist    cd /Users/dinesh/Desktop/kteste/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility test/test-Info.plist -genpkginfo /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app/Info.plist36"463335EA-4C13-4772-AF92-5496C755588F-
-
-CProcessPCH /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/PrecompiledHeaders/test-Prefix-hjuklfqyufsabcdhzwfckyaohdsu/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s373354487.307193
-e373354487.851701
-r1
-xProcessPCH
-x/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/PrecompiledHeaders/test-Prefix-hjuklfqyufsabcdhzwfckyaohdsu/test-Prefix.pch.pth
-xtest/test-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile test/test-Prefix.pchedf54ef7ef40b641^9e08daf7ef40b641^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/dinesh/Desktop/kteste/test/test/test-Prefix.pch0000000000000000^3521"ProcessPCH Testing/test/Build/Intermediates/PrecompiledHeaders/test-Prefix-hjuklfqyufsabcdhzwfckyaohdsu/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dinesh/Desktop/kteste/test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-generated-files.hmap -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-own-target-headers.hmap -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-all-target-headers.hmap -iquote /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/test-project-headers.hmap -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/DerivedSources/i386 -I/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/test.build/Debug-iphonesimulator/test.build/DerivedSources -F/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/PrecompiledHeaders/test-Prefix-hjuklfqyufsabcdhzwfckyaohdsu/test-Prefix.pch.dia -c /Users/dinesh/Desktop/kteste/test/test/test-Prefix.pch -o /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/PrecompiledHeaders/test-Prefix-hjuklfqyufsabcdhzwfckyaohdsu/test-Prefix.pch.pth -MMD -MT dependencies -MF /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Intermediates/PrecompiledHeaders/test-Prefix-hjuklfqyufsabcdhzwfckyaohdsu/test-Prefix.pch.d36"9B37BD8F-DC16-46AC-A933-D7912DFE07B4-
-
-CProcessPCH /Users/dinesh/Desktop/kteste/test/Testing/test/Index/PrecompiledHeaders/test-Prefix-cvfljlvaatwppmdnzijalpfbspkn_ast/test-Prefix.pch.pth test/test-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app
-s373791254.100391
-e373791254.106347
-r1
-xTouch
-x/Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Touch /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.appdac819169a47b641^bd3a1b169a47b641^---0#0#0#--416"Touch Testing/test/Build/Products/Debug-iphonesimulator/test.app    cd /Users/dinesh/Desktop/kteste/test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dinesh/Desktop/kteste/test/Testing/test/Build/Products/Debug-iphonesimulator/test.app36"A120E964-3129-4298-873D-B369B47E2F14-
-

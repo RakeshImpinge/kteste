@@ -13,6 +13,8 @@
 		18DDAF4516118AC300A4D1E9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 18DDAF4316118AC300A4D1E9 /* InfoPlist.strings */; };
 		18DDAF4716118AC300A4D1E9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DDAF4616118AC300A4D1E9 /* main.m */; };
 		18DDAF4B16118AC300A4D1E9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DDAF4A16118AC300A4D1E9 /* AppDelegate.m */; };
+		1B135EB516479D1100C35EA7 /* TestingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B135EB316479D1100C35EA7 /* TestingViewController.m */; };
+		1B135EB616479D1100C35EA7 /* TestingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1B135EB416479D1100C35EA7 /* TestingViewController.xib */; };
 		5B6040A0164797D700ACED1F /* TesterClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B60409F164797D700ACED1F /* TesterClass.m */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +29,9 @@
 		18DDAF4816118AC300A4D1E9 /* test-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "test-Prefix.pch"; sourceTree = "<group>"; };
 		18DDAF4916118AC300A4D1E9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		18DDAF4A16118AC300A4D1E9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		1B135EB216479D1100C35EA7 /* TestingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestingViewController.h; sourceTree = "<group>"; };
+		1B135EB316479D1100C35EA7 /* TestingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestingViewController.m; sourceTree = "<group>"; };
+		1B135EB416479D1100C35EA7 /* TestingViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TestingViewController.xib; sourceTree = "<group>"; };
 		5B60409E164797D700ACED1F /* TesterClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TesterClass.h; sourceTree = "<group>"; };
 		5B60409F164797D700ACED1F /* TesterClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TesterClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -79,6 +84,9 @@
 			children = (
 				18DDAF4916118AC300A4D1E9 /* AppDelegate.h */,
 				18DDAF4A16118AC300A4D1E9 /* AppDelegate.m */,
+				1B135EB216479D1100C35EA7 /* TestingViewController.h */,
+				1B135EB316479D1100C35EA7 /* TestingViewController.m */,
+				1B135EB416479D1100C35EA7 /* TestingViewController.xib */,
 				18DDAF4116118AC300A4D1E9 /* Supporting Files */,
 			);
 			path = test;
@@ -146,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18DDAF4516118AC300A4D1E9 /* InfoPlist.strings in Resources */,
+				1B135EB616479D1100C35EA7 /* TestingViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -159,6 +168,7 @@
 				18DDAF4716118AC300A4D1E9 /* main.m in Sources */,
 				18DDAF4B16118AC300A4D1E9 /* AppDelegate.m in Sources */,
 				5B6040A0164797D700ACED1F /* TesterClass.m in Sources */,
+				1B135EB516479D1100C35EA7 /* TestingViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

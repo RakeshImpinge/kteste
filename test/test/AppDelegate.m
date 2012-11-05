@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "TestingViewController.h"
 
 @implementation AppDelegate
 
@@ -19,6 +20,8 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     
+    TestingViewController *vc = [[TestingViewController alloc] init];
+    [self.window addSubview:vc.view];
     
     NSLog(@"teing fasfsdfsfa");
  
