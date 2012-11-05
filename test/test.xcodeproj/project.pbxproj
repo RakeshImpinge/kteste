@@ -13,6 +13,7 @@
 		18DDAF4516118AC300A4D1E9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 18DDAF4316118AC300A4D1E9 /* InfoPlist.strings */; };
 		18DDAF4716118AC300A4D1E9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DDAF4616118AC300A4D1E9 /* main.m */; };
 		18DDAF4B16118AC300A4D1E9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DDAF4A16118AC300A4D1E9 /* AppDelegate.m */; };
+		5B6040A0164797D700ACED1F /* TesterClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B60409F164797D700ACED1F /* TesterClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		18DDAF4816118AC300A4D1E9 /* test-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "test-Prefix.pch"; sourceTree = "<group>"; };
 		18DDAF4916118AC300A4D1E9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		18DDAF4A16118AC300A4D1E9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		5B60409E164797D700ACED1F /* TesterClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TesterClass.h; sourceTree = "<group>"; };
+		5B60409F164797D700ACED1F /* TesterClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TesterClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +48,8 @@
 		18DDAF2B16118AC300A4D1E9 = {
 			isa = PBXGroup;
 			children = (
+				5B60409E164797D700ACED1F /* TesterClass.h */,
+				5B60409F164797D700ACED1F /* TesterClass.m */,
 				18DDAF4016118AC300A4D1E9 /* test */,
 				18DDAF3916118AC300A4D1E9 /* Frameworks */,
 				18DDAF3716118AC300A4D1E9 /* Products */,
@@ -153,6 +158,7 @@
 			files = (
 				18DDAF4716118AC300A4D1E9 /* main.m in Sources */,
 				18DDAF4B16118AC300A4D1E9 /* AppDelegate.m in Sources */,
+				5B6040A0164797D700ACED1F /* TesterClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +262,7 @@
 				18DDAF5016118AC300A4D1E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
